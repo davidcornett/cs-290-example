@@ -1,0 +1,13 @@
+
+
+li {
+	border: 2px solid blue;
+}
+
+#lastItem{
+	background-color: yellow;
+}
+
+.completed{
+	text-decoration: line-through;
+}
